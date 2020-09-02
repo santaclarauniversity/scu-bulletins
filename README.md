@@ -1,1 +1,1 @@
-# scu-bulletins.github.io
+# scu-bulletins
