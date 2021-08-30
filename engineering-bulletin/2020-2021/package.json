@@ -1,0 +1,20 @@
+{
+  "name": "ug-bulletin",
+  "version": "1.0.0",
+  "description": "UG Bulletin 2020-2021",
+  "main": "index.js",
+  "dependencies": {
+    "ebook-convert": "^2.0.1",
+    "gitbook": "^2.6.9",
+    "gitbook-plugin-ga": "^1.0.1",
+    "gitbook-plugin-search-plus": "^1.0.3",
+    "gitbook-plugin-toggle-headers": "^0.1.0",
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
