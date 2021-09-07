@@ -1,0 +1,6 @@
+Student Body
+============
+
+Santa Clara University has a student population of 8,669, with 5,694 undergraduate students and 2,975 graduate students. The undergraduate population has a male-to-female ratio of 50-to-50, and about 51 percent of undergraduate students identify themselves as persons of color. About 55 percent of undergraduates are from California, with the others coming from throughout the United States and 27 countries. Seventy-eight percent of undergraduate students receive financial aid--based scholarships, grants, or loans. More than half (58 percent) of the undergraduate population live in University housing, with 96 percent of first-year students and 73 percent of sophomores living on campus. Students experience an average class size of 21, with 69 percent of classes having fewer than 20 students, and only 0.4 percent of classes having 50 or more students. The student-to-faculty ratio is 10.28-to-1.
+
+The University's commitment to learning is expressed in the fact that 94.1 percent of first-year students advance to sophomore year, and the percentage of Santa Clara students who graduate is among the highest in the country. The four-year graduation rate for entering first-year students is 87 percent, with a five-year graduation rate of 90 percent and a six-year graduation rate of 91 percent.
