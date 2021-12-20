@@ -50,32 +50,32 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">---</th>
-      <th style="text-align:left">
+      <th style="text-align:left; vertical-align: top;">---</th>
+      <th style="text-align:left; vertical-align: top;">
         <p><b>Structural</b>
         </p>
         <p><b>Engineering Track</b>
         </p>
       </th>
-      <th style="text-align:left">
+      <th style="text-align:left; vertical-align: top;">
         <p><b>General Civil</b>
         </p>
         <p><b>Engineering Track</b>
         </p>
       </th>
-      <th style="text-align:left">
+      <th style="text-align:left; vertical-align: top;">
         <p><b>Construction Engineering</b>
         </p>
         <p><b>and Management Track</b>
         </p>
       </th>
-      <th style="text-align:left"><b>Water and Environmental Engineering Track</b>
+      <th style="text-align:left; vertical-align: top;"><b>Water and Environmental Engineering Track</b>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>Required</b>
         </p>
         <p><b>Technical</b>
@@ -83,7 +83,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p><b>Coursework</b>
         </p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p>CENG 205 (2)</p>
         <p>CENG 206 (2)</p>
         <p>CENG 222 (4)</p>
@@ -94,7 +94,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p><b>(24 units)</b>
         </p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p>CENG 219^ (3)</p>
         <p>CENG 237 (4)</p>
         <p>CENG 238 (4/1)</p>
@@ -104,7 +104,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p><b>(24 units)</b>
         </p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p>CENG 218 (3)</p>
         <p>CENG 219^ (3)</p>
         <p>CENG 281 (3)</p>
@@ -116,7 +116,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p><b>(24 units)</b>
         </p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>At least 15 units from:</b>
         </p>
         <p>CENG 242 (4)</p>
@@ -128,7 +128,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>Elective</b>
         </p>
         <p><b>Technical</b>
@@ -136,7 +136,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p><b>Coursework</b>
         </p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>6 units from:</b>
         </p>
         <p>CENG 207 (2)</p>
@@ -157,7 +157,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>CENG 295</p>
         <p>CENG 297</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>6 units from:</b>
         </p>
         <p>CENG 217 (4)</p>
@@ -177,7 +177,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>CENG 295</p>
         <p>CENG 297</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>6 units from:</b>
         </p>
         <p>CENG 249 (4)</p>
@@ -196,7 +196,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>EMGT 335 (2)</p>
         <p>ENGR 329^ (3)</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>At least 16 units from:</b> **</p>
         <p>CENG 217 (4)</p>
         <p>CENG 219 (3)</p>
@@ -211,13 +211,13 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>Applied</b>
         </p>
         <p><b>Mathematics</b>
         </p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>4 units from:</b>
         </p>
         <p>AMTH 210 (2) &amp; 211 (2)</p>
@@ -225,7 +225,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>AMTH 220 (2) &amp; 221 (2)</p>
         <p>AMTH 245 (2) &amp; 246 (2)</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>4 units from:</b>
         </p>
         <p>AMTH 210 (2) &amp; 211 (2)</p>
@@ -233,7 +233,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>AMTH 220 (2) &amp; 221 (2)</p>
         <p>AMTH 245 (2) &amp; 246 (2)</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>4 units from:</b>
         </p>
         <p>AMTH 210 (2) &amp; 211 (2)</p>
@@ -241,7 +241,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>AMTH 367 (4)</p>
         <p>AMTH 370 (2) &amp; 371 (2)</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>4 units from:</b>
         </p>
         <p>AMTH 210 (2) &amp; 211 (2)</p>
@@ -251,7 +251,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>Project</b>
         </p>
         <p><b>Management, Leadership and</b>
@@ -259,7 +259,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p><b>Communications</b>
         </p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>5 units from:</b>
         </p>
         <p>CENG 282^ (3)</p>
@@ -268,7 +268,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>EMGT 330^ (2)</p>
         <p>EMGT 335^ (2)</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>5 units from:</b>
         </p>
         <p>CENG 260 (3)</p>
@@ -277,7 +277,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>EMGT 330^ (2)</p>
         <p>EMGT 335^ (2)</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>6 units from:</b>
         </p>
         <p>EMGT 270 (2)</p>
@@ -287,7 +287,7 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
         <p>EMGT 329 (2)</p>
         <p>EMGT 349 (2)</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;">
         <p><b>4 units from:</b>
         </p>
         <p>CENG 208^ (2)</p>
@@ -300,17 +300,14 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Enrichment Experience</b>
+      <td style="text-align:left; vertical-align: top;"><b>Enrichment Experience</b>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left; vertical-align: top;" colspan="4">
         <p><b>[minimum 7 units] composed of:</b>
         </p>
         <p><b>A minimum of 4 units from at least two of the three areas in the Graduate Core Areas (Emerging Topics in Engineering, Engineering and Business/Entrepreneurship and Engineering and Society). The remaining three units may be fulfilled by a) Taking additional classes from the Graduate Core, b)Taking one or more major technical electives, c) Taking Cooperative Education courses (ENGR 288, 299) and d) combining courses from categories a, b and c. See Chapter 6, Enrichment Experience and Graduate Core requirements for additional information.</b>
         </p>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
@@ -921,4 +918,3 @@ By arrangement and department chair approval. \(1–6 units\)
 _**CENG 299. Independent Study**_
 
 Special/advanced topics. By arrangement. \(1–6 units\)
-

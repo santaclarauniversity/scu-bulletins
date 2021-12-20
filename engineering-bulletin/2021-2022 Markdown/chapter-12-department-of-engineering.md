@@ -109,6 +109,9 @@ _**ENGR 342. 3D Print Technology and Society**_
 
 This class is designed to introduce students to 3D print technology, which offers a range of exciting possibilities for product design, delivery, and democratization of entrepreneurship. Along with hands-on experience of the technology, students will be exposed to the ecosystem engaged by the technology. Implications for life sciences, career opportunities, entrepreneurship, and restructuring of global markets and society will be examined. \(2 units\)
 
+_**ENGR 344. Artificial Intelligence and Ethics**_
+Will artificial intelligence and machine learning save humanity and create heaven on Earth? Or will it take away what makes us human or even kill us? Or somewhere in between? This course takes a broad perspective on some of the ethical issues related to AI and ML. It will explore ethical reasoning and application to AI and ML technologies. Numerous case-studies will make sure the theoretical ethical level of the course always remains connected to the concrete experience of AI and ML as practiced in the world. \(2 units\)
+
 _**ENGR 350. Success in Global Emerging Markets**_
 
 Strategies and tactics for moving new products and technologies into global emerging markets, comprehending cultural impact, and creating new markets. Understanding your company’s objective, determining what is possible, and developing practical go-to-market strategies. Topics include new ventures, sustainability, social responsibility, risk assessment and mitigation. \(2 units\)
@@ -126,4 +129,3 @@ _**ENGR 372. Space Systems Design and Engineering II\***_
 A review of the engineering principles, technical subsystems, and design processes that serve as the foundation of developing and operating spacecraft systems. This course focuses on subsystems and analyses relating to mechanical, thermal, software, and sensing elements. Note: ENGR 371 and 372 may be taken in any order. Also listed as MECH 372. \(4 units\)
 
 _**\*Eligible for Technical Stem in Engineering Management**_
-

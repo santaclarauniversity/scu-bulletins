@@ -50,7 +50,10 @@ Required Courses
 * MECH 266: Fundamentals of Fluid Mechanics \(2 units\)
 * MECH 270: Viscous Flows I \(2 units\)
 * MECH 294: Continuum Mechanics \(2 units\)
-* MECH 334: Elasticity I \(2 units\)Electives \(8 units\)
+* MECH 334: Elasticity I \(2 units\)
+
+Elective Courses \(8 units required\)
+
 * MECH 214: Advanced Dynamics I \(2 units\)
 * MECH 215: Advanced Dynamics II \(2 units\)
 * MECH 250: Finite Elements Methods I \(2 units\)
@@ -194,14 +197,14 @@ Math requirement \(8 units\): MECH 200 and 201, or MECH 202 and approved two-cou
 
 In addition, the student must enroll in courses to fulfill both systems-oriented and technical engineering requirements.
 
-_Required Systems-Oriented courses:_ 
+_Required Systems-Oriented courses:_
 
 * EMGT 380 Introduction to Systems Engineering \(2 units\)
 * EMGT 381 System Conceptual Design \(2 units\)
 * EMGT 330 Project Management Basics \(2 units\)
 * EMGT 265 Advanced Project Management and Project Leadership \(2 units\)
 
-_Required Technical Depth Area courses:_ 
+_Required Technical Depth Area courses:_
 
 * MECH 371 Space Systems Design and Engineering I \(4 units\)
 * MECH 372 Space Systems Design and Engineering II \(4 units\)
@@ -215,7 +218,7 @@ The student must also choose one of the following 2-course sequences on control 
 * MECH 218 and 219 Guidance and Control I, II \(2 units each\)
 * MECH 323 and 324 Modern Control Systems I, II \(2 units each\)
 
-_Culminating experience: Thesis \(4-9 units\) or Capstone \(4-6 units\) or the MECH 211/212 Capstone Course sequence \(4 units\)_ 
+_Culminating experience: Thesis \(4-9 units\) or Capstone \(4-6 units\) or the MECH 211/212 Capstone Course sequence \(4 units\)_
 
 **Thermofluids**
 
@@ -1200,4 +1203,3 @@ Kinematics and Attitude dynamics, gravity-gradient stabilization, single and dua
 _**MECH 432. Spacecraft Dynamics and Control II**_
 
 Continuation of MECH 431. Time-optimal slew maneuvers, momentum-biased attitude stabilization, reaction thruster attitude control, introduction to dynamics of flexible spacecraft and liquid sloshing problem. Prerequisite: MECH 431. \(2 units\)
-

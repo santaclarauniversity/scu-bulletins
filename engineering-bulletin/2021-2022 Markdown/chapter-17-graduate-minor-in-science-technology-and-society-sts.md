@@ -46,6 +46,7 @@ The courses and the different thematic areas to which they belong are listed bel
 * ENGR 273 Sustainable Energy and Ethics
 * ENGR 310 Engineering Ethics
 * ENGR 334 Energy, Climate Change, and Social Justice
+* ENGR 344 Artificial Intelligence and Ethics
 
 **Science and Religion**
 
@@ -84,4 +85,3 @@ In order to become eligible for this benefit, students must check the appropriat
 2. In the second week of each quarter, students must provide the program academic advisor with a list of courses in which they are currently enrolled \(this will require official proof of registration\).
 
 3. Once the academic advisor establishes that the courses conform to the approved programs of studies \(both in the technical and in the STS area\), students will receive financial aid in the amount of 75% of their tuition expenses for that quarter \(excluding fees\).
-

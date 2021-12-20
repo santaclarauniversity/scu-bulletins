@@ -1104,7 +1104,7 @@ M.S. 1986, Bharathidasan University
 
 Ph.D. 1991, University of Hyderabad
 
-**USHA NITI PARIMI \(2012\)**
+**USHA (NITU) PARIMI \(2012\)**
 
 _Lecturer in Engineering Management and Leadership_
 
@@ -1628,4 +1628,3 @@ _B.S. 1989, Nanjing University_
 _M.S. 1995, University of Toronto_
 
 _Ph.D. 2001, University of Texas at Austin_
-
