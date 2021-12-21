@@ -81,7 +81,7 @@ Lower-Division Courses
 
 Using spreadsheets to analyze business data and present the findings in tables, charts, and graphs. Topics covered will include spreadsheet formulas, functions, pivot tables, and pivot charts. Students will also learn how to retrieve data from sources such as text files, relational databases, and servers. Students may not take both OMIS 15 and 17 for credit. Students must have less than 87.5 units completed. (2 units)
 
-### 30. Introduction to Programming
+### 30. Introduction to Programming with Python
 
 Fundamental methodologies and approaches to computer programming, with emphasis on problem solving, top-down program design, and thinking like a programmer. Students will learn basic structures of computer programming; analyze real business problems from a computer programmer perspective; and program, test, and debug well-structured programs. Focuses on essential aspects of writing software that include good design, modularity, efficiency, documentation, clarity, portability, and style. Students will obtain hands-on programming skills through several programming assignments. This course is the basis for business application development in database design and systems programming courses. Students who receive credit for CSCI 10 (formerly MATH 10), COEN 6, COEN 11, or OMIS 31 may not take this course for credit. (4 units)
 

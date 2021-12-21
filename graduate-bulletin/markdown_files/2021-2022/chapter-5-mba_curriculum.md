@@ -1,4 +1,4 @@
- Curriculum
+MBA Curriculum
 ==============
 
 *Note: Refer to designated chapters for curriculum details specific to the Masters of Science in Information Systems, Finance, Business Analytics, and Executive MBA Programs.*
@@ -79,7 +79,7 @@ Introduces probability and statistical analysis, emphasizing applications to man
 
 ***OMIS 3202. Analytical Decision Making***
 
-This course covers how to rigorously formulate decision problems, understand mathematical optimization, deal with the uncertainties inherent in real business problems, while introducing computer-modeling tools like important Excel add-ons, R, Mathematica, CrystalBall, and @Risk. *Prerequisite: OMIS 3200.* (2 units)
+This course covers how to rigorously formulate decision problems, understand mathematical optimization, deal with the uncertainties inherent in real business problems, while introducing computer-modeling tools like important Excel add-ons, R, Mathematica, CrystalBall, and \@Risk. *Prerequisite: OMIS 3200.* (2 units)
 
 ***OMIS 3250. Analysis, Design, and Management of Enterprise Platforms***
 
@@ -180,17 +180,19 @@ Develop an analytical framework for evaluating new business opportunities. Revie
 
 **Requirements**
 
--   MGMT 3504 - Innovation in Silicon Valley (4 units)
-
 -   MGMT 3802 - Entrepreneurial Opportunities and Innovation (4 units)
 
--   The remaining 8 units may come from any of the below courses:
+The remaining 8 units may come from any of the below courses:
 
 -   FNCE 3460 - Mergers, Acquisitions & Corporate Restructuring (4 units)
 
 -   FNCE 3480 - Emerging Company Finance (2 units)
 
--   MGMT 3052 - Challenges in Leading and Managing Strategic Change (2 units)
+-   FNCE 3481 - Emerging Company Finance II (2 units)
+
+-   FNCE 3482 - Business Valuation (4 units)
+
+-   MGMT 3504 - Innovation in Silicon Valley (4 units)
 
 -   MGMT 3512 - Leadership of Dynamic Organizations (4 units)
 
@@ -200,9 +202,9 @@ Develop an analytical framework for evaluating new business opportunities. Revie
 
 -   MGMT 3548 - Social Benefit Entrepreneurship (4 units)
 
--   MKTG 3569 - Small Business Entrepreneurship (4 units)
-
 -   MGMT 3718 - Venture Capital Essentials (2 units)
+
+-   MKTG 3569 - Small Business Entrepreneurship (4 units)
 
 -   MKTG 3572 - New Product Innovation (4 units)
 
@@ -290,7 +292,7 @@ Three, four-unit courses are required to complete the curriculum. Currently, onl
 
 -   MGMT 3544 - Strategic Business Negotiations (4 units)
 
--   MGMT 3546 - Spirituality of Organizational Leadership (4 units)
+-   MGMT 3546 - Spirituality and Business Leadership (4 units)
 
 -   MGMT 3548 - Social Benefit Entrepreneurship (4 units)
 
@@ -322,14 +324,14 @@ MBA Anywhere Program
 
 The SCU Anywhere Program allows students to take electives on-campus or online from another Master's program. This applies to the Evening MBA, Online MBA, Online MS in Marketing and Online MS in Finance and Analytics Programs. The SCU Anywhere Program will offer greater flexibility and course availability for all Online and Evening MBA students. Students may take up to 12-units of elective credit in another program. Tuition fees will be based on the student's original program.
 
-**Evening MBA students** must complete an online student success seminar before they begin their first online course. Students will have access to the online student success seminar approximately 4 - 6 weeks before the course begins. Online courses are largely asynchronous, structured with weekly modules, and students login at their convenience to complete their coursework. For all courses, Module 0 provides an overview of each course (including the syllabus) and opens the Friday before the first day of instruction. Students may access the full course beginning on the first day of class. Online courses will take place at [http://onlinelearning.scu.edu/](http://onlinelearning.scu.edu/). If you encounter technical difficulties, call 833-822-2276 or email mba@scu.edu.
+**Evening MBA students** must complete an online student success seminar before they begin their first online course. Students will have access to the online student success seminar approximately 4 - 6 weeks before the course begins. Online courses are largely asynchronous, structured with weekly modules, and students login at their convenience to complete their coursework. For all courses, Module 0 provides an overview of each course (including the syllabus) and opens the Friday before the first day of instruction. Students may access the full course beginning on the first day of class. Online courses will take place at [[http://onlinelearning.scu.edu/]{.underline}](http://onlinelearning.scu.edu/). If you encounter technical difficulties, call 833-822-2276 or email mba\@scu.edu.
 
-**Online students** must use a separate Camino tile for on-campus courses. Do not access it via [https://onlinelearning.scu.edu](https://onlinelearning.scu.edu/). Instead, access it through the Camino tile via [SCU's Single Sign-On Portal](https://www.scu.edu/apps/login/).
+**Online students** must use a separate Camino tile for on-campus courses. Do not access it via [[https://onlinelearning.scu.edu]{.underline}](https://onlinelearning.scu.edu/). Instead, access it through the Camino tile via [[SCU's Single Sign-On Portal]{.underline}](https://www.scu.edu/apps/login/).
 
 STEM MBA Program
 ----------------
 
-The new designation certifies the Data Science and Business Analytics [curriculum](https://www.scu.edu/business/graduate-degrees/student-services/academic/concentrations/data-science-and-business-analytics/) as a Science, Technology, Engineering, and Mathematics program by the U.S. Department of Homeland Security and reflects a curricular focus on business skills with an emphasis on STEM applications. International students in the DSBA program who are on an F-1 visa will now be able to work in the U.S. for up to three years following graduation under the Optional Practical Training (OPT) program. Read the Press Release [here](https://www.scu.edu/business/news/top-stories/evening-mba-receives-stem-designation.html).
+The new designation certifies the Data Science and Business Analytics [[curriculum]{.underline}](https://www.scu.edu/business/graduate-degrees/student-services/academic/concentrations/data-science-and-business-analytics/) as a Science, Technology, Engineering, and Mathematics program by the U.S. Department of Homeland Security and reflects a curricular focus on business skills with an emphasis on STEM applications. International students in the DSBA program who are on an F-1 visa will now be able to work in the U.S. for up to three years following graduation under the Optional Practical Training (OPT) program. Read the Press Release [[here]{.underline}](https://www.scu.edu/business/news/top-stories/evening-mba-receives-stem-designation.html).
 
 *Faculty Coordinators: Sanjiv Das (Finance and Business Analytics) and Xiaojing Dong (Marketing and Business Analytics)*
 

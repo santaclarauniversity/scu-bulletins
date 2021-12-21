@@ -1,4 +1,4 @@
-**Sustainable Food Systems** 
+**Sustainable Food Systems**
 ============================
 
 *Directors:* Gregory Baker and Erika French-Arnold
@@ -28,8 +28,6 @@ BIOL 106/PHSC 124 Health Consequences of a Western Lifestyle
 ENVS 79 Environmental Thought
 
 ENVS 185 Garbology
-
-ENVS 196\* California Foodscapes
 
 ITAL 101 Italian Food Culture
 
