@@ -1,11 +1,7 @@
 Undergraduate Degrees
 =====================
 
-<<<<<<< HEAD
-The College of Arts and Sciences confers the degree of bachelor of arts in art history, chemistry, classics, communication, English, French and Francophone studies, history, individual studies, Italian studies, music, philosophy, religious studies, Spanish studies, studio art, theatre arts, and women's and gender studies. The college also confers the bachelor of science in anthropology, biochemistry, biology, chemistry, child studies, computer science, economics, engineering physics, environmental science, environmental studies, ethnic studies,: individual studies, mathematics, neuroscience, physics, political science, psychology, public health science, and sociology.
-=======
 The College of Arts and Sciences confers the degree of bachelor of arts in art history, chemistry, classics, communication, English, French and Francophone studies, history, individual studies, Italian studies, music, philosophy, religious studies, Spanish studies, studio art, theatre arts, and women's and gender studies. The college also confers the bachelor of science in anthropology, biochemistry, biology, chemistry, child studies, computer science, economics, engineering physics, environmental science, environmental studies, ethnic studies, individual studies, mathematics, neuroscience, physics, political science, psychology, public health science, and sociology.
->>>>>>> 4cc42d8946ae0f7811ffc5a8f7468d3a83886364
 
 Requirements for the Bachelor of Arts and Bachelor of Science
 -------------------------------------------------------------
