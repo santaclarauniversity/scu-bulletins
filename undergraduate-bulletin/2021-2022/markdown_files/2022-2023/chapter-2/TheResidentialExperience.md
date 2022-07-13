@@ -1,0 +1,12 @@
+The Residential Experience
+==========================
+
+In support of the residential nature of Santa Clara, and the University's commitment to integrated education, all unmarried, full-time undergraduate students are required to live on campus during their first and second years, unless the student has been approved for an exception or space is not available to accommodate this requirement.
+
+The undergraduate residence halls at Santa Clara University are home to nine Residential Learning Communities (RLCs) established to foster integrated education within a community of scholars. By creating a culture in which students connect their academic experiences with their social and residential ones, the learning communities enhance the education of the whole person and deepen the connection between learning and living as responsible members of a community.
+
+All entering first-year students, whether or not they live on campus, become members of one of nine theme-based Residential Learning Communities. Nonresident first-year students are given access to the residence hall in which their learning community is located so that they can participate fully in its programs. In the theme-based learning communities, resident directors and faculty directors coordinate with spirituality facilitators and student staff to encourage high academic achievement, effective community living, and individual development.
+
+Students take at least one Core *Foundations* course in common with others in their learning community, enriching coursework and promoting the formation of study groups. Students also interact directly with faculty and staff and participate in theme-based co-curricular and extracurricular activities both on and off campus. Residential Learning Communities are primarily two-year communities, but some offer the opportunity for students to remain throughout their undergraduate careers.
+
+University residence halls accommodate more than half of the undergraduate population in coeducational communities with common lounge areas, study rooms, kitchen and laundry facilities, and other services. Most residence halls offer traditional double-occupancy rooms with common bath facilities; some halls offer suites and apartment-style accommodations with bathrooms en suite. All residence hall rooms and suites are equipped with cable television connections, Ethernet, and wireless network service.
