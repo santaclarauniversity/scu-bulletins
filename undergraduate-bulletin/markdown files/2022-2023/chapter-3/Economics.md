@@ -61,7 +61,7 @@ The concentration in Data Analysis for Economics provides a structured course of
 
 Economics majors desiring a concentration in mathematical economics must complete the following requirements in addition to the regular requirements for the major:
 
--   All of the following courses: MATH 11, 12, 13, 14, 23, 53, AMTH 106 (MATH 122 and 123 are strongly recommended)
+-   All of the following courses: MATH 11, 12, 13, 14, 53, AMTH 106 (MATH 122 and 123 are strongly recommended)
 
 -   Three out of the following courses: ECON 170, 171, 172, 173, 174, 187, or 188 (these courses also count as electives required for the major)
 
