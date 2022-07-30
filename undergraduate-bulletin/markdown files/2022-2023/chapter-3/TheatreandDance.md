@@ -1,7 +1,7 @@
 Department of Theatre and Dance
 ===============================
 
-*Professors:* Aldo L. Billingslea (Department Chair, William J. Rewak Professor), Barbara M. Fraser, Kimberly M. Hill
+*Professors:* Aldo L. Billingslea (William J. Rewak Professor), Barbara M. Fraser, Kimberly M. Hill (Department Chair)
 
 *Associate Professors:* Jerald R. Enos, David J. Popalisky
 
