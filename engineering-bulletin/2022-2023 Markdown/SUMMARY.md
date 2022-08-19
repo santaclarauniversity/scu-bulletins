@@ -1,9 +1,9 @@
 # Summary
 
-* [2021-2022 Engineering Graduate Bulletin](README.md)
+* [2022-2023 Engineering Graduate Bulletin](README.md)
 * [Letter from the Dean](letter-from-the-dean.md)
 * [Engineering at Santa Clara](engineering-at-santa-clara.md)
-* [2021-2022 Graduate Academic Calendar](2021-2022-graduate-academic-calendar.md)
+* [2022-2023 Graduate Academic Calendar](2021-2022-graduate-academic-calendar.md)
 * [Chapter 1: Santa Clara University](chapter-1-santa-clara-university.md)
 * [Chapter 2: Academic Programs and Requirements](chapter-2-academic-programs-and-requirements.md)
 * [Chapter 3: Admissions](chapter-3-admissions.md)
