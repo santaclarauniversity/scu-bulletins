@@ -1,0 +1,21 @@
+{ 
+  "plugins": ["pdf-styling", "hints", "toggle-headers", "-sharing", "-lunr", "-search", "search-plus", "ga"],
+  "pluginsConfig": {
+    "ga": {
+      "token": "UA-246576-1"
+    }
+  },
+
+    "pdf": {
+        "fontSize": 12,
+        "margin": {
+            "right":32,
+            "left": 26,
+            "top": 62,
+            "bottom": 56
+        }
+    },
+
+  "title": "Santa Clara University Graduate Engineering Bulletin",
+  "language": "en"
+}
