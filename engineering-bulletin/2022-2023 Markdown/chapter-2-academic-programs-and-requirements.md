@@ -128,13 +128,6 @@ In addition to our regular Ph.D. program, Graduate Engineering Programs also off
 
 Engineers who wish to update their skills or learn new technologies without pursuing a specific degree may enroll in the School of Engineering’s Open University program.
 
-1. As a part of the application process, candidates must submit a letter of support from their employer. This letter should contain a pledge of financial support and must identify a co-advisor within the company. The co-advisor shares responsibilities for guiding the candidate’s research with a full- time faculty advisor. This person is also expected to be a member of the doctoral committee.
-2. The full-time study component of the residence requirement is waived, but other residence requirements remain the same. Students who opt for this “industrial track” are responsible for meeting all other requirements for the Ph.D. The awarded degree will be the same for all students, regardless of the track that they choose to pursue.
-
-### Open University Program
-
-Engineers who wish to update their skills or learn new technologies without pursuing a specific degree may enroll in the School of Engineering’s Open University program.
-
 If a student from the Open University program is accepted into a degree program, **a maximum of 16 units may apply toward the degree** (if the courses are in the same discipline to which the student is accepted). The general GRE test requirement for admission to the master’s degree program will be waived if the student has completed a set of required courses in the department to which they are applying and has earned a GPA of 3.5 or higher.
 
 Open University students who are considering enrolling in the master’s program should be aware that each specialization has its own set of requirements and that the number of “free electives” is very limited. Such students are therefore strongly encouraged to choose their classes in consultation with a faculty advisor from the very beginning.
