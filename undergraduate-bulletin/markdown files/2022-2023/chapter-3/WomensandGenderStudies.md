@@ -89,7 +89,6 @@ Six courses, at least three of which must be upper division:
 
     -   WGST 190 (Capstone) (senior year) or WGST 1055914
 
-    -   
 
 -   Three electives
 
@@ -106,7 +105,7 @@ A two-course sequence focusing on a major theme in human experience and culture 
 
 ### 25. Intersectionality: Principles and Praxis
 
-How do categorical identities, including race, gender, class, sexuality, disability, etc., work together to create our lived experiences? What is the use of intersectionality as a buzzword, or public concept, in contemporary struggles for social recognition, integration, and equity? This course is an introduction to thinking about intersectionality, as a theoretical frame, a description of lived experience, and method of praxis. It will examine the history and application of intersectionality from black women\'s movements of the 1970s, to its codification in legal theory, to current scholarship and activism that have intersectionality and intersectional experiences at their core. Cross-listed with ETHN 54A. (4 Units)
+How do categorical identities, including race, gender, class, sexuality, disability, etc., work together to create our lived experiences? What is the use of intersectionality as a buzzword, or public concept, in contemporary struggles for social recognition, integration, and equity? This course is an introduction to thinking about intersectionality, as a theoretical frame, a description of lived experience, and method of praxis. It will examine the history and application of intersectionality from black women'ss movements of the 1970s, to its codification in legal theory, to current scholarship and activism that have intersectionality and intersectional experiences at their core. Cross-listed with ETHN 54A. (4 Units)
 
 ### 50. Introduction to Women's and Gender Studies
 
@@ -118,7 +117,7 @@ Covers a variety of topics focusing on the areas of history, media, politics, li
 
 ### 59. Feminist Approach to Disability Studies
 
-This course explores the social construction of dis/ability by taking a critical, intersectional, and feminist approach to disability studies. Through course readings, online responses to readings, select film screenings, and in class discussion we\'ll fully examine the \'social model\' and radical models of dis/ability that approach the study of dis/abled bodies (and minds) through ever-shifting historical, socio-cultural, and political formations. Cross-listed with ETHN 59. (4 Units)
+This course explores the social construction of dis/ability by taking a critical, intersectional, and feminist approach to disability studies. Through course readings, online responses to readings, select film screenings, and in class discussion we'll fully examine the 'social model' and radical models of dis/ability that approach the study of dis/abled bodies (and minds) through ever-shifting historical, socio-cultural, and political formations. Cross-listed with ETHN 59. (4 Units)
 
 ### 76. Violence Against Women
 
@@ -173,7 +172,7 @@ This course will explore how gender influences legal doctrine and how legal doct
 
 ### **125. Intersectionality: Principles and Praxis**
 
-How do categorical identities, including race, gender, class, sexuality, disability, etc., work together to create our lived experiences? What is the use of intersectionality as a buzzword, or public concept, in contemporary struggles for social recognition, integration, and equity? This course is an introduction to thinking about intersectionality, as a theoretical frame, a description of lived experience, and method of praxis. It will examine the history and application of intersectionality from black women\'s movements of the 1970s, to its codification in legal theory, to current scholarship and activism that have intersectionality and intersectional experiences at their core. Cross-listed with SOCI 126 and ETHN 154A. (5 Units)
+How do categorical identities, including race, gender, class, sexuality, disability, etc., work together to create our lived experiences? What is the use of intersectionality as a buzzword, or public concept, in contemporary struggles for social recognition, integration, and equity? This course is an introduction to thinking about intersectionality, as a theoretical frame, a description of lived experience, and method of praxis. It will examine the history and application of intersectionality from black women's movements of the 1970s, to its codification in legal theory, to current scholarship and activism that have intersectionality and intersectional experiences at their core. Cross-listed with SOCI 126 and ETHN 154A. (5 Units)
 
 ### 135. Film, Gender, and Globalization
 
@@ -185,7 +184,7 @@ This discussion-based course explores the production and reproduction of message
 
 ### 189. Sex, Law, and Social Justice
 
-This course examines contemporary issues in gender justice through a transnational lens. The course will begin with a critical investigation of the dominant narratives that frequently underlie mainstream advocacy interventions; problematizing terms such as \'victim\', \'oppressor\', 'savior,' and \'rescue,\' and highlighting the moral and ethical assumptions that often underlie these interventions. After establishing a framework in transnational feminisms, postcolonial legal studies, and critical race theory, subsequent units will examine topics including the raced and gendered histories of humanitarianism/human rights, gender and national security, gendered violence, and reproductive justice. Readings will be drawn from materials which explore the legal, visual, and discursive elements of a range of social justice movements. (5 units)
+This course examines contemporary issues in gender justice through a transnational lens. The course will begin with a critical investigation of the dominant narratives that frequently underlie mainstream advocacy interventions; problematizing terms such as 'victim', 'oppressor', 'savior,' and 'rescue,' and highlighting the moral and ethical assumptions that often underlie these interventions. After establishing a framework in transnational feminisms, postcolonial legal studies, and critical race theory, subsequent units will examine topics including the raced and gendered histories of humanitarianism/human rights, gender and national security, gendered violence, and reproductive justice. Readings will be drawn from materials which explore the legal, visual, and discursive elements of a range of social justice movements. (5 units)
 
 ### 190. Senior Capstone
 
@@ -302,7 +301,9 @@ Study of African American literature with a focus on gender. Also listed as ETHN
 
 ### 56. Literature and Women
 
-Also listed as ENGL 68A or 68G. For course description see ENGL 68A or 68G. 110. Native American Women Writers
+Also listed as ENGL 68A or 68G. For course description see ENGL 68A or 68G. 
+
+### 110. Native American Women Writers
 
 Study of selected works in Native American literature. Course may focus on particular authors, particular tribal or regional literatures, genres, or topics. Also listed as ENGL 137G. Note: ENGL 137 only cross-lists with WGST 110 when it is offered as 137G, which indicates a gender studies focus. (5 units)
 
@@ -363,7 +364,7 @@ Also listed as ETHN 70. For course description see ETHN 70.
 
 ### 59. Feminist Approach to Disability Studies
 
-This course explores the social construction of dis/ability by taking a critical, intersectional, and feminist approach to disability studies. Through course readings, online responses to readings, select film screenings, and in class discussion we\'ll fully examine the \'social model\' and radical models of dis/ability that approach the study of dis/abled bodies (and minds) through ever-shifting historical, socio-cultural, and political formations. Cross-listed with ETHN 59. (4 Units)
+This course explores the social construction of dis/ability by taking a critical, intersectional, and feminist approach to disability studies. Through course readings, online responses to readings, select film screenings, and in class discussion we'll fully examine the 'social model' and radical models of dis/ability that approach the study of dis/abled bodies (and minds) through ever-shifting historical, socio-cultural, and political formations. Cross-listed with ETHN 59. (4 Units)
 
 ### 111. Asian-American Women
 
