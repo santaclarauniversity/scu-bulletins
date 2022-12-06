@@ -18,7 +18,7 @@ Endowed Chairs
 
 *Ignacio Ellacuria, S.J., University Professor for Jesuit Studies* Jerome Baggett (Jesuit School of Theology)
 
-*Lee and Seymour Graff Professor* Ruth E. Davis (Computer Engineering)
+*Lee and Seymour Graff Professor* Kathy Aoki (Art & Art History)
 
 *Lee and Seymour Graff Professor II* Betty A. Young (Physics)
 
@@ -36,7 +36,7 @@ Endowed Chairs
 
 *Phil and Bobbie Sanfilippo Professor* Allen Hammond IV (Law)
 
-*Sanfilippo Family Professor* Nam Ling (Computer Engineering)
+*Sanfilippo Family Professor* Craig Stephens (Biology/Public Health)
 
 *Santa Clara Jesuit Community Professor* (open)
 

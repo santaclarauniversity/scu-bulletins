@@ -1,7 +1,7 @@
 Department of Theatre and Dance
 ===============================
 
-*Professors:* Aldo L. Billingslea (William J. Rewak Professor), Barbara M. Fraser, Kimberly M. Hill (Department Chair)
+*Professors:* Aldo L. Billingslea (Department Chair, William J. Rewak Professor), Barbara M. Fraser, Kimberly M. Hill
 
 *Associate Professors:* Jerald R. Enos, David J. Popalisky
 
@@ -402,7 +402,7 @@ Basic course in the tools, techniques, and theory of directing plays for the liv
 
 ### 189. Social Justice and the Arts
 
-How do artists engage with the world? What are the questions propelling an artist\'s work? What can we learn from an artist\'s process? In this Experiential Learning class we will explore these questions through a co-mingling of a variety of activities: reading and classroom discussions, community based learning activities, a critical paper, an investigation paper, and engagement with a wide variety of art and artists. Note: This course requires participation in community-based learning (CBL) experiences off campus. Formerly listed as DANC 189. (5 units)
+How do artists engage with the world? What are the questions propelling an artist's work? What can we learn from an artist's process? In this Experiential Learning class we will explore these questions through a co-mingling of a variety of activities: reading and classroom discussions, community based learning activities, a critical paper, an investigation paper, and engagement with a wide variety of art and artists. Note: This course requires participation in community-based learning (CBL) experiences off campus. Formerly listed as DANC 189. (5 units)
 
 ### 190. New Playwrights Festival
 
@@ -455,7 +455,7 @@ Active participation in the preparation and performance of departmental producti
 
 ### 36. Dance Cinematography
 
-Introductory course that fuses and draws on hip hop street dance style and expressive modern/contemporary dance with no previous training required. The course introduces the body to strong isolated movement and coordination while building flexibility, strength, and alignment. Emphasis on floor work and building dance combinations performed to hip-hop music and contemporary sounds. (4 units)
+This course is an introduction to dance cinematography. Through a project-based workflow, participants will work from dance source material, from ballet to hip hop, and video techniques to achieve a marriage of the moving body, camera, audio landscape, and visual images. The course will emphasize collaboration in creative research, choreography, and video production. (4 units)
 
 ### 37. Hip Hop-Modern/Contemporary Dance Fusion
 
