@@ -1,5 +1,5 @@
 { 
-  "plugins": ["pdf-styling", "hints", "toggle-headers", "-sharing", "-lunr", "-search", "search-plus", "ga"],
+  "plugins": ["pdf-styling", "hints", "toggle-headers", "-sharing", "-lunr", "-search", "search-plus", "ga" "hints"],
   "pluginsConfig": {
     "ga": {
       "token": "UA-246576-1"
