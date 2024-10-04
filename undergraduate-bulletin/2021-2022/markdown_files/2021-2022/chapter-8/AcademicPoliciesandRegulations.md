@@ -1,2 +1,0 @@
-Academic Policies and Regulations
-=================================

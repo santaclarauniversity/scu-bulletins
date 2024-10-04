@@ -1,2 +1,0 @@
-# Ethnic Studies
-
