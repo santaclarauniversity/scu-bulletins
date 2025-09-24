@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!--<title>SCU Undergraduate Bulletin Search</title>-->
   <title>SCU Engineering Graduate Bulletin Search</title>
-  <!--<title>SCU Graduate Business Bulletin Search</title>-->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
@@ -17,17 +15,24 @@
 .gdbold {font-weight:700}
 h3 .gdbold {font-weight:500}
 .gditalic {font-style:italic}
+
+.pagetitle a {
+      text-decoration: none;
+      color: #FFFFFF !important;
+}
+.pagetitle a:hover {
+       text-decoration: underline;
+}
+
 </style>
 <script async src="https://cse.google.com/cse.js?cx=015735913753929981099:fyhgumyaibi"></script>
 </head>
 <body>
 
 <header class="navbar navbar-expand-md navbar-dark sticky-top" style="background-color:#B30738">
-      <span class="navbar-brand d-inline-block align-bottom"><img src="https://www.scu.edu/media/public/graphics/scu-logo/scu_hor_rev_rgb_2c.png" alt="Santa Clara University Mission Church logo" height="59">
+      <span class="navbar-brand d-inline-block align-bottom"><a href="https://www.scu.edu/"><img src="https://www.scu.edu/media/public/graphics/scu-logo/scu_hor_rev_rgb_2c.png" alt="Santa Clara University Mission Church logo" height="59"></a>
 </span>
-<!--<span class="pagetitle">SCU Undergraduate Bulletin 2025-26</span>-->
-<span class="pagetitle">SCU Engineering Graduate Bulletin 2025-26</span>
-<!--<span class="pagetitle">SCU Graduate Business Bulletin 2025-26</span>-->
+<span class="pagetitle"><a href="https://www.scu.edu/bulletin/graduate/school-of-engineering/">SCU Engineering Graduate Bulletin 2025-26</a></span>
       <button class="navbar-toggler  d-flex d-md-none flex-column" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" aria-controls="collapsibleNavbar" aria-expanded="false" aria-label="Toggle navigation">
       <span class="toggler-icon top-bar "></span>
 <span class="toggler-icon middle-bar"></span>
@@ -48,7 +53,7 @@ h3 .gdbold {font-weight:500}
 <h1>Search the Bulletin</h1>
 <div class="content">
 <div id="gcse-search-debug" ></div>
-	 		<div class="gcse-search" data-webSearchQueryAddition=" inurl:/bulletin/graduate/school-of-engineering/" ></div>
+	 		<div class="gcse-search" data-webSearchQueryAddition=" inurl:www.scu.edu/bulletin/undergraduate" ></div>
 			<script>
 				document.addEventListener("DOMContentLoaded", function () {
 					searchRoot = " inurl:"+window.location.pathname.replace("search.html","");
